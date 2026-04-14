@@ -37,13 +37,6 @@ Built using **basic C++ only** — no vectors, no pointers. Uses only:
 - loops and switch statements
 - Modular arithmetic for encryption/decryption
 
-## How to Compile and Run
-
-```bash
-g++ Italian cipher.cpp -o affine_cipher
-./affine_cipher
-```
-
 ## Valid Values for Key `a`
 
 Key `a` must be coprime with 21:
